@@ -1419,7 +1419,7 @@ Type81=1
 Type82=1
 
 [Electrical Rules Check]
-Type1=0
+Type1=1
 Type2=1
 Type3=2
 Type4=1
