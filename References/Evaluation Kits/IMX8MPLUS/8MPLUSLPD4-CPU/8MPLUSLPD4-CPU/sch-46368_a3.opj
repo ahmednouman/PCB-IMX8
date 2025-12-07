@@ -1,0 +1,42 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\sch-46368_a3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\WORK\IMX8\865S\SCH&PCB\AGILE\8MPLUSLPD4-CPU\SCH-46368_A3.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{AGILE_PN}\t{ASSY_OPT}\t{Reference}\t{Value}\t{DESCRIPTION}\t{MFG_NAME01}\t{MFG_PN01}\t{PCB Footprint}")
+    (BOM_Header
+       "Item\tQuantity\tAgilePN\tASSY_OPT\tReference\tValue\tDescription\tMfg Name\tMfg Part Number\tPCB Footprint")
+    (BOM_Include_File
+       "C:\WORK\IMX8\865S\SCH&PCB\AGILE\8MPLUSLPD4-CPU\SCH-46368_A3.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\sch-46368_a3.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sch-46368_a3.dsn")
+      (Path "Design Resources" ".\sch-46368_a3.dsn" "8MPLUSLPD4-CPU")
+      (Path "Outputs")
+      (Select "Design Resources" ".\sch-46368_a3.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
+      (Tab 0))))

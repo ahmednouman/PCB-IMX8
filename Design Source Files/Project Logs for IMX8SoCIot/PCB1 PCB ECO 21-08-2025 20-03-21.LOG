@@ -1,0 +1,114 @@
+Change Component Footprint: Designator=U? Old Footprint=BGA548C50P29X29_1500X1500X148 New Footprint=BGA548C50P29X29_1500X1500X148
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Added Member To Class: ClassName=IMX8_PWR Member=Component C1 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C2 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C3 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C4 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C5 CAP_0201_220n_10V_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C6 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C7 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C8 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C9 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C10 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C11 CAP_0201_220n_10V_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C12 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C13 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C14 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C15 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C16 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C17 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C18 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C19 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C20 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C21 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C22 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C23 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C24 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C25 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C26 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C27 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C28 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C29 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C30 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C31 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C32 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C33 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C34 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C35 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C36 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C37 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C38 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C39 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C40 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C41 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C42 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C43 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C44 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C45 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C46 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C47 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C48 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C49 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C50 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C51 CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C52 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C53 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C54 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C55 CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C56 CAP_0402_4u7_10V_X6S
+Added Member To Class: ClassName=IMX8_IO Member=Component U? MIMX8ML8CVNKZAB

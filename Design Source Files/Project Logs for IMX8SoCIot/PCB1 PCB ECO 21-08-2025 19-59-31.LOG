@@ -1,0 +1,313 @@
+Removed Pin From Net: NetName=GND Pin=U?-A1
+Removed Pin From Net: NetName=GND Pin=U?-A29
+Removed Pin From Net: NetName=GND Pin=U?-AA3
+Removed Pin From Net: NetName=GND Pin=U?-AA7
+Removed Pin From Net: NetName=NVCC_DRAM_1V1 Pin=U?-AA10
+Removed Pin From Net: NetName=VDD_3V3 Pin=U?-AA11
+Removed Pin From Net: NetName=VDD_3V3 Pin=U?-AA14
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-AA16
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-AA19
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-AA20
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-AA22
+Removed Pin From Net: NetName=GND Pin=U?-AA23
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-AA24
+Removed Pin From Net: NetName=GND Pin=U?-AA27
+Removed Pin From Net: NetName=GND Pin=U?-AB8
+Removed Pin From Net: NetName=GND Pin=U?-AB10
+Removed Pin From Net: NetName=GND Pin=U?-AB12
+Removed Pin From Net: NetName=GND Pin=U?-AB14
+Removed Pin From Net: NetName=GND Pin=U?-AB16
+Removed Pin From Net: NetName=GND Pin=U?-AB18
+Removed Pin From Net: NetName=GND Pin=U?-AB20
+Removed Pin From Net: NetName=GND Pin=U?-AB22
+Removed Pin From Net: NetName=GND Pin=U?-AC3
+Removed Pin From Net: NetName=GND Pin=U?-AC6
+Removed Pin From Net: NetName=GND Pin=U?-AC24
+Removed Pin From Net: NetName=GND Pin=U?-AC27
+Removed Pin From Net: NetName=GND Pin=U?-AE3
+Removed Pin From Net: NetName=GND Pin=U?-AE27
+Removed Pin From Net: NetName=GND Pin=U?-AG4
+Removed Pin From Net: NetName=GND Pin=U?-AG6
+Removed Pin From Net: NetName=GND Pin=U?-AG8
+Removed Pin From Net: NetName=GND Pin=U?-AG10
+Removed Pin From Net: NetName=GND Pin=U?-AG12
+Removed Pin From Net: NetName=GND Pin=U?-AG14
+Removed Pin From Net: NetName=GND Pin=U?-AG16
+Removed Pin From Net: NetName=GND Pin=U?-AG18
+Removed Pin From Net: NetName=GND Pin=U?-AG20
+Removed Pin From Net: NetName=GND Pin=U?-AG22
+Removed Pin From Net: NetName=GND Pin=U?-AG24
+Removed Pin From Net: NetName=GND Pin=U?-AG26
+Removed Pin From Net: NetName=GND Pin=U?-AJ1
+Removed Pin From Net: NetName=GND Pin=U?-AJ29
+Removed Pin From Net: NetName=GND Pin=U?-C4
+Removed Pin From Net: NetName=GND Pin=U?-C6
+Removed Pin From Net: NetName=GND Pin=U?-C8
+Removed Pin From Net: NetName=GND Pin=U?-C10
+Removed Pin From Net: NetName=GND Pin=U?-C12
+Removed Pin From Net: NetName=GND Pin=U?-C14
+Removed Pin From Net: NetName=GND Pin=U?-C16
+Removed Pin From Net: NetName=GND Pin=U?-C18
+Removed Pin From Net: NetName=GND Pin=U?-C20
+Removed Pin From Net: NetName=GND Pin=U?-C22
+Removed Pin From Net: NetName=GND Pin=U?-C24
+Removed Pin From Net: NetName=GND Pin=U?-C26
+Removed Pin From Net: NetName=GND Pin=U?-E3
+Removed Pin From Net: NetName=GND Pin=U?-E27
+Removed Pin From Net: NetName=VDD_MIPI_1P2_CAP Pin=U?-F20
+Removed Pin From Net: NetName=GND Pin=U?-G3
+Removed Pin From Net: NetName=GND Pin=U?-G6
+Removed Pin From Net: NetName=GND Pin=U?-G24
+Removed Pin From Net: NetName=GND Pin=U?-G27
+Removed Pin From Net: NetName=GND Pin=U?-H8
+Removed Pin From Net: NetName=GND Pin=U?-H10
+Removed Pin From Net: NetName=GND Pin=U?-H12
+Removed Pin From Net: NetName=GND Pin=U?-H14
+Removed Pin From Net: NetName=GND Pin=U?-H16
+Removed Pin From Net: NetName=GND Pin=U?-H18
+Removed Pin From Net: NetName=GND Pin=U?-H20
+Removed Pin From Net: NetName=GND Pin=U?-H22
+Removed Pin From Net: NetName=GND Pin=U?-J3
+Removed Pin From Net: NetName=GND Pin=U?-J7
+Removed Pin From Net: NetName=VDD_3V3 Pin=U?-J11
+Removed Pin From Net: NetName=VDD_3V3 Pin=U?-J14
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-J16
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-J19
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-J20
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-J22
+Removed Pin From Net: NetName=GND Pin=U?-J23
+Removed Pin From Net: NetName=GND Pin=U?-J27
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-K10
+Removed Pin From Net: NetName=VDD_3V3 Pin=U?-K11
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-K14
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-K15
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-K16
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-K19
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-K20
+Removed Pin From Net: NetName=GND Pin=U?-L3
+Removed Pin From Net: NetName=GND Pin=U?-L7
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L9
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L10
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L11
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L12
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L13
+Removed Pin From Net: NetName=GND Pin=U?-L14
+Removed Pin From Net: NetName=GND Pin=U?-L16
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L17
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L18
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L19
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L20
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-L21
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-L22
+Removed Pin From Net: NetName=GND Pin=U?-L23
+Removed Pin From Net: NetName=GND Pin=U?-L27
+Removed Pin From Net: NetName=GND Pin=U?-M11
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-M14
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-M16
+Removed Pin From Net: NetName=GND Pin=U?-M19
+Removed Pin From Net: NetName=GND Pin=U?-N3
+Removed Pin From Net: NetName=GND Pin=U?-N7
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N9
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N10
+Removed Pin From Net: NetName=GND Pin=U?-N11
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N12
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N13
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N14
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N15
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N16
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N17
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N18
+Removed Pin From Net: NetName=GND Pin=U?-N19
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N20
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-N21
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-N22
+Removed Pin From Net: NetName=GND Pin=U?-N23
+Removed Pin From Net: NetName=VDD_SNVS_0V8 Pin=U?-N26
+Removed Pin From Net: NetName=GND Pin=U?-N27
+Removed Pin From Net: NetName=GND Pin=U?-P11
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-P14
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-P16
+Removed Pin From Net: NetName=GND Pin=U?-P19
+Removed Pin From Net: NetName=GND Pin=U?-R3
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-R6
+Removed Pin From Net: NetName=GND Pin=U?-R7
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-R9
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-R10
+Removed Pin From Net: NetName=GND Pin=U?-R11
+Removed Pin From Net: NetName=GND Pin=U?-R12
+Removed Pin From Net: NetName=GND Pin=U?-R13
+Removed Pin From Net: NetName=GND Pin=U?-R14
+Removed Pin From Net: NetName=GND Pin=U?-R16
+Removed Pin From Net: NetName=GND Pin=U?-R17
+Removed Pin From Net: NetName=GND Pin=U?-R18
+Removed Pin From Net: NetName=GND Pin=U?-R19
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-R20
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-R21
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-R22
+Removed Pin From Net: NetName=GND Pin=U?-R23
+Removed Pin From Net: NetName=NVCC_SNVS_1V8 Pin=U?-R24
+Removed Pin From Net: NetName=GND Pin=U?-R27
+Removed Pin From Net: NetName=GND Pin=U?-T11
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-T14
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-T16
+Removed Pin From Net: NetName=GND Pin=U?-T19
+Removed Pin From Net: NetName=GND Pin=U?-U3
+Removed Pin From Net: NetName=GND Pin=U?-U7
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-U9
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-U10
+Removed Pin From Net: NetName=GND Pin=U?-U11
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-U12
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-U13
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-U14
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-U15
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-U16
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-U17
+Removed Pin From Net: NetName=GND Pin=U?-U18
+Removed Pin From Net: NetName=GND Pin=U?-U19
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-U20
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-U21
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-U22
+Removed Pin From Net: NetName=GND Pin=U?-U23
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-U24
+Removed Pin From Net: NetName=GND Pin=U?-U27
+Removed Pin From Net: NetName=GND Pin=U?-V11
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-V14
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-V16
+Removed Pin From Net: NetName=GND Pin=U?-V19
+Removed Pin From Net: NetName=GND Pin=U?-W3
+Removed Pin From Net: NetName=GND Pin=U?-W7
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-W9
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-W10
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-W11
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-W12
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-W13
+Removed Pin From Net: NetName=GND Pin=U?-W14
+Removed Pin From Net: NetName=GND Pin=U?-W16
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-W17
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-W18
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-W19
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-W20
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-W21
+Removed Pin From Net: NetName=VDD_SOC Pin=U?-W22
+Removed Pin From Net: NetName=GND Pin=U?-W23
+Removed Pin From Net: NetName=NVCC_SD2 Pin=U?-W24
+Removed Pin From Net: NetName=GND Pin=U?-W27
+Removed Pin From Net: NetName=VDD_3V3 Pin=U?-Y10
+Removed Pin From Net: NetName=VDD_1V8 Pin=U?-Y11
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-Y14
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-Y15
+Removed Pin From Net: NetName=VDD_ARM Pin=U?-Y16
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-Y19
+Removed Pin From Net: NetName=VDDA_1V8 Pin=U?-Y20
+Removed Member From Class: ClassName=IMX8_PWR Member=U?
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0201_UN1Q New Footprint=CAP_0201_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Change Component Footprint: Designator=C? Old Footprint=CAP_0402_H09W07_UN1Q New Footprint=CAP_0402_H09W07_UN1Q
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_220n_10V_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_220n_10V_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_4u7_10V_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0402_10u_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
+Added Member To Class: ClassName=IMX8_PWR Member=Component C? CAP_0201_1uF_X6S
